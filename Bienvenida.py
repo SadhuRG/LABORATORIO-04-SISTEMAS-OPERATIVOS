@@ -1,0 +1,2 @@
+#Bienvenido a la simulacion de un chat, para ejecutar el chat primero se debe ejecutar el chat_server para inicializar el servidor luego ejecutar el chat_client para inicializar un cliente#
+#Vas a copiar el codigo de inicializacion para un cliente y creas un nuevo terminal para ejecutar un nuevo cliente, este nuevo cliente enviara mensajes y lo vera el primer cliente y la simulacion queda echa#
